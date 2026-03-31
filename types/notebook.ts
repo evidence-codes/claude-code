@@ -1,0 +1,3 @@
+export type NotebookCell = any
+export type NotebookCellType = any
+export type NotebookContent = any

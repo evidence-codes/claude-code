@@ -1,0 +1,4 @@
+<system-reminder>
+Refine the user's plan into a short, executable sequence of steps.
+Keep the output concrete, ordered, and focused on the immediate task.
+</system-reminder>
